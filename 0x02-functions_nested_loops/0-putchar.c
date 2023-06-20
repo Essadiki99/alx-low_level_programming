@@ -1,7 +1,6 @@
 #include "main.h"
 
 
-
 /**
  * main -Entry point of my code,
  * 
@@ -21,4 +20,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-
